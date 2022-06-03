@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">RentalCar</string>
+    <string name="labelApp">Sugarseries Car</string>
+    <string name="labelHave">Do you have an account ?</string>
+    <string name="register">Register</string>
+    <string name="labelNama">Nama</string>
+    <string name="labelPass">Password</string>
+    <string name="txButtonSigin">Sign In</string>
 </resources>
