@@ -2,8 +2,14 @@
     <string name="app_name">RentalCar</string>
     <string name="labelApp">Sugarseries Car</string>
     <string name="labelHave">Do you have an account ?</string>
-    <string name="register">Register</string>
+    <string name="labelRegister">Register</string>
     <string name="labelNama">Nama</string>
     <string name="labelPass">Password</string>
-    <string name="txButtonSigin">Sign In</string>
+    <string name="txButtonSigin">Login</string>
+    <string name="labelemail">Email</string>
+    <string name="labelLogin">Login</string>
+    <string name="tag">Ayo gunakan jasa kami !</string>
+    <string name="toregister">Dont have an account ?</string>
+    <string name="tologin">Already have an account ?</string>
+    <string name="labelrePass">Masukkan Password</string>
 </resources>
